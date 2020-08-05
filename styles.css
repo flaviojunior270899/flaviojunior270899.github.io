@@ -1,0 +1,81 @@
+* {
+  margin: 0;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: whitesmoke;
+  color: #2e2e2e
+}
+
+p {
+  font-size: 19px;
+}
+
+.header {
+  text-align: center;
+  background-image: url('imagens/background.png');
+  height: 400px;
+  color: white;
+}
+
+.header h1 {
+  padding-top: 270px;
+  font-size: 56px;
+  text-shadow: 3px 0px 24px black;
+}
+
+.header p {
+  margin-top: 0;
+  font-size: 28px;
+  text-shadow: 3px 0px 24px black;
+}
+
+.page-content {
+  margin: 20px auto 0 auto;
+  width: 100%;
+  max-width: 1200px;
+  padding: 0 32px;
+}
+
+.page-content h2 {
+  font-weight: 400;
+  font-size: 24px;
+}
+
+.forma {
+  position: relative;
+  margin-top: 38px;
+  height: 300px;
+}
+
+.direita img {
+  float: right;
+}
+
+.esquerda img {
+  float: left;
+}
+
+.forma img {
+  margin-right: 18px;
+  width: 470px;
+}
+
+.forma h3 {
+  font-size: 26px;
+}
+
+.forma p {
+  margin-top: 8px;
+}
+
+.footer {
+  margin-top: 32px;
+  text-align: center;
+}
+
+.footer p {
+  font-size: 18px;
+  color: #555555;
+}
